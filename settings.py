@@ -41,7 +41,7 @@ ITEM_PIPELINES = {
 # REDIS_ITEMS_SERIALIZER = 'json.dumps'
 
 # 指定连接到redis时使用的端口和地址（可选）
-REDIS_HOST='208.167.253.31'
+REDIS_HOST='127.0.0.1'
 REDIS_PORT=6379
 
 # 指定用于连接redis的URL（可选）
